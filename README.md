@@ -1,2 +1,10 @@
-# Apni-Job-Portal
-This full-stack Job Portal allows candidates to search and apply for jobs while enabling recruiters to post job openings and manage applications. Built with React, Spring Boot, MongoDB, CSS, and Tailwind CSS, this platform ensures a smooth experience for both candidates and recruiters.
+# Apni-Job-Portal 🏢👨‍💻
+
+This full-stack Job Portal allows candidates to search and apply for jobs while enabling recruiters to post job openings and manage applications.
+
+![Job Portal Screenshot](assets/job-portal-preview.png)
+
+## Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Spring Boot
+- **Database:** MongoDB
